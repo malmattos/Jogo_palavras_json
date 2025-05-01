@@ -6,7 +6,7 @@
       "palavras": [
   "AZUL", "VERMELHO", "AMARELO", "VERDE", "PRETO", "BRANCO", "CINZA", "ROSA", "LARANJA", "ROXO",
   "MARROM", "BEGE", "DOURADO", "PRATEADO", "BORDÔ", "VINHO", "TURQUESA", "SALMÃO", "CARMIM", "FÚCSIA",
-  "MAGENTA", "ANIL", "VIOLETA", "LILÁS", "CREME", "CASTANHO", "OURO", "PRATA", "ESMERALDA", "transparente"
+  "MAGENTA", "ANIL", "VIOLETA", "LILÁS", "CREME", "CASTANHO", "OURO", "PRATA", "ESMERALDA"
 ]
     },
     {
@@ -56,7 +56,13 @@
   "MOSCA", "MOSQUITO", "MINHOCA", "OURIÇO", "BICHO-PREGUIÇA", "ONÇA", "PANTERA", "CHIMPANZÉ", "GORILA", "BÚFALO",
   "FURÃO", "CASTOR", "MORCEGO", "CANGURU", "COALA", "AVESTRUZ", "EMA", "PANDA", "ORNITORRINCO", "GAMO",
   "JAVALI", "GUAXINIM", "SURICATE", "CAMELO", "PANTERA-NEGRA", "MARRECO", "CISNE", "GANSO", "DONINHA", "MULA"
-	]}
+	]},
+	
+	{
+      "nome": "Esportes",
+      "ativo": true,
+      "palavras": [  "Futebol", "Volei" ]
+    }
 
 
 
